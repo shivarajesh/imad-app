@@ -8,6 +8,6 @@ element.innerHTML = "new value";
 //move the image
 var img = document.getElementById('modi');
 img.onclick = function () {
-    
-   img.style.marginleft = '100px';
+    var interval = setinterval
+   img.style.marginLeft = '100px';
 } ;
